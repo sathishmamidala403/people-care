@@ -1,4 +1,4 @@
-package com.care.people.controller;
+package com.care.people.entity;
 
 public class Patient {
 }
